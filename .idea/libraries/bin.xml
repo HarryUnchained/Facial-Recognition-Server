@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="bin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RTSP-Client-Server-master/bin/Client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RTSP-Client-Server-master/bin/Server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
